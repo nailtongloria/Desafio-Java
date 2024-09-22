@@ -17,4 +17,7 @@ Usando a IDES Intellij, ou eclipse , execute o comando mvn install para instalar
 mvn clean e mvn package.
 Pronto , so subir o projeto executando a classe DesafioJavaApplication.
 
+Teste de Software.
+Usando os seguinte frameworks: Junit e Mockito.
+
 
