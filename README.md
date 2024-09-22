@@ -20,6 +20,10 @@ Pronto , so subir o projeto executando a classe DesafioJavaApplication.
 Teste de Software.
 Usando os seguinte frameworks: Junit e Mockito.
 
+Segue o link abaixo com a requisções GET,POST,PUT,DELETE de Funcionários.
+Baixar e executar direto no POSTMAN
+https://github.com/nailtongloria/Tutorial-de-navega-o-de-telas-Projeto-Portfolio/blob/main/colecao%20funcionario.postman_collection.json
+
 Segue o link abaixo com o tutorial de Navegação das Paginas Web.
 https://github.com/nailtongloria/Tutorial-de-navega-o-de-telas-Projeto-Portfolio/blob/main/TutorialTelaProjetoPortfolio.pdf
 
